@@ -6,3 +6,4 @@ def find_largest():
         number.append(num)
     largest = max(number)
     print(f"The largest number is: {largest}")
+find_largest()
